@@ -1,4 +1,10 @@
-Height,Length,Width,Link
-11.1,7.4,2.2,https://www.amazon.com/Display-Anniversary-Resistant-Acid-Free-EVORETRO/dp/B07DM9WYCJ
-10.5,6,2.4,https://www.amazon.com/EVORETRO-Multiverse-Protectors-Acid-Free-Protective/dp/B07DMBRGKH
-9.3,5.12,2.1,https://www.amazon.com/Star-Wars-Black-RED-Compatible/dp/B07DMBF1K3
+Height,Length,Width,Link,Name
+11.1,7.4,2.2,https://www.amazon.com/Display-Anniversary-Resistant-Acid-Free-EVORETRO/dp/B07DM9WYCJ,
+10.5,6,2.4,https://www.amazon.com/EVORETRO-Multiverse-Protectors-Acid-Free-Protective/dp/B07DMBRGKH,
+9.3,5.12,2.1,https://www.amazon.com/Star-Wars-Black-RED-Compatible/dp/B07DMBF1K3,Star Wars Black Series Kmart Exclusives Protector
+9.1875,8.125,3.125,https://www.retroprotection.com/Star-Wars-Black-Series-Kmart-Exclusives-Protector-1-Protector-805.htm,
+9,6,0.8125,https://www.retroprotection.com/Star-Wars-RETRO-Protector-WAVE-1-ONLY-READ-1-Protector-857.htm,Star Wars RETRO Protector (WAVE 1 ONLY!)
+9,5.5,2,https://www.retroprotection.com/Star-Wars-Black-Series-6-Orange-Blue-1-Protector-322.htm,Star Wars Black Series 6" Orange/Blue
+9,5,2,https://www.retroprotection.com/Star-Wars-Black-Series-6-The-Force-Awakens-RED-1-Protector-333.htm,Star Wars Black Series 6" The Force Awakens RED
+8.1875,5.4375,1.4375,https://www.retroprotection.com/Star-Wars-375-Carded-Figures-READ-DESCRIPTION-1-Protector-493.htm,Star Wars 3.75" Carded Figures
+7,4.5,1.5,https://www.retroprotection.com/Star-Wars-Black-Series-375-Box-Protector-1-Protector-481.htm,Star Wars Black Series 3.75" Box Protector
