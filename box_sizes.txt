@@ -1,0 +1,4 @@
+Height,Length,Width,Link
+11.1,7.4,2.2,https://www.amazon.com/Display-Anniversary-Resistant-Acid-Free-EVORETRO/dp/B07DM9WYCJ
+10.5,6,2.4,https://www.amazon.com/EVORETRO-Multiverse-Protectors-Acid-Free-Protective/dp/B07DMBRGKH
+9.3,5.12,2.1,https://www.amazon.com/Star-Wars-Black-RED-Compatible/dp/B07DMBF1K3
